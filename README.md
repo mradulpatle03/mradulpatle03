@@ -1,11 +1,6 @@
 <!-- 💫 MRADUL | Developer-first Portfolio -->
 <div align="center">
 
-  <!-- Profile Banner -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/mradulpatle03/mradulpatle03/main/mradul_logo.png" alt="<Mradul />" width="200" height="200"/>
-  </p>
-
   <p><i>Developer-first portfolio • Code. Build. Deploy.</i></p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=1000&color=FFFF00&center=true&vCenter=true&width=480&lines=const+focus+=+%22code%2C+creativity%2C+consistency%22;building+things+that+actually+matter();<Mradul+%2F>+lives+in+dark+mode." alt="Typing Animation" />
